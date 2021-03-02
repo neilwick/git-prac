@@ -1,0 +1,15 @@
+.active {
+    font-weight: bold;
+    color: red;
+}
+
+nav>ul {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+}
+
+nav>ul>li {
+    display: block;
+    padding: 3px;
+}
