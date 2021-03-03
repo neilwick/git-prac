@@ -11,6 +11,7 @@ if (isset($_GET['p'])) {
 // while ($row = $result->fetch()) {
 //     echo $row['title'] . '<br />';
 // }
+// could be done that way
 
 // positional
 // $query = 'SELECT `pageID`,`name`,`title`,`menu`,`file` FROM `page` WHERE `name` = ?';
